@@ -14,6 +14,6 @@ Chrome extension to track:
 - Daily statistics popup
 
 ## Technologies
-- JavaScript
+- python,JavaScript
 - Chrome Extension Manifest V3
 - Chrome Storage API
